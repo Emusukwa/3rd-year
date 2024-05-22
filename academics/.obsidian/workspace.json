@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "d303fd78b4846b5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff676d7fbd0d2edc",
+        "type": "tabs",
+        "dimension": 70.58823529411765,
+        "children": [
+          {
+            "id": "f1d60b3780e379a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dissection anatomy/vascular system of upper limb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e142cb71d0e650d6",
+        "type": "tabs",
+        "dimension": 29.411764705882355,
+        "children": [
+          {
+            "id": "b90cac961d0e88cc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e9dd07e5cbe9d35",
+    "type": "split",
+    "children": [
+      {
+        "id": "f60c48d0356f5e28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62e88119a7688b26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52e1108dceb0dddf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a02d55fc291a59c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22d35f5741f4e11c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1675b2fa50e96376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e1b4bc03d51642c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dissection anatomy/vascular system of upper limb.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dffe7dd19e28df5a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dissection anatomy/vascular system of upper limb.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89626e0ec47c628b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d089165d3345aa8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dissection anatomy/vascular system of upper limb.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f1d60b3780e379a0",
+  "lastOpenFiles": [
+    "dissection anatomy/bones of the upper limb.md",
+    "dissection anatomy/vascular system of upper limb.md",
+    "dissection anatomy/origin, insertion , van and action (dissection).md",
+    "dissection anatomy/brachial plexus.md",
+    "Welcome.md",
+    "Pasted image 20240522044851.png",
+    "Pasted image 20240522044824.png",
+    "Pasted image 20240522044747.png",
+    "Pasted image 20240522044720.png",
+    "Pasted image 20240522040702.jpg",
+    "Pasted image 20240522035232.jpg",
+    "Pasted image 20240522040747.jpg",
+    "Pasted image 20240522044322.png",
+    "Pasted image 20240522042642.png",
+    "Pasted image 20240522040941.jpg",
+    "dissection anatomy"
+  ]
+}
